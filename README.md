@@ -9,7 +9,7 @@ They are real. It's fantastic.
 TrumpKlon installation is straightforward. It's easy. Really easy.
 All you need is a Raspberry Pi, a fresh SD card and a Twitter account. 
 That's all it takes. Incredibly easy.
-For details on installation, see the step-by-step instructions in the TrumpKlon Wiki.
+For details on installation, see the [step-by-step instructions](https://github.com/blinkgestalten/TrumpKlon/wiki/TrumpKlon-Installation) in the TrumpKlon Wiki.
 
 
 Other Twitter bots try to generate convincing language. 
