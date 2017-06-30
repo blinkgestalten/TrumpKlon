@@ -33,4 +33,4 @@ An enormous amount of Trump tweets everywhere. You'll love it.
 
 # Project History
 
-TrumpKlon is a spinoff project of ElektroKlon, an art(ificial) product for automated generation of private information for everyone. If TrumpKlon is great, ElektroKlon is even greater. It's not just Trump, it's everything you can think of. You'll love it. Great stuff.
+TrumpKlon is a spinoff project of [ElektroKlon](http://www.elektroklon.de/index_english.html), an art(ificial) product for automated generation of private information for everyone. If TrumpKlon is great, ElektroKlon is even greater. It's not just Trump, it's everything you can think of. You'll love it. Great stuff.
