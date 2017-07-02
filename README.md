@@ -3,8 +3,9 @@
 TrumpKlon is a great art project and a great personal Twitter bot based on Raspberry Pi technology.
 TrumpKlon automatically creates tweets that resemble the Twitter emissions of Donald Trump.
 The tweet generator of TrumpKlon is based on real Donald Trump tweets. 
-They are real. It's fantastic!
+They are real. It's fantastic!  
 
+![TrumpKlon](https://github.com/blinkgestalten/TrumpKlon/blob/master/Images/TrumpKlonLogo.png) 
 
 TrumpKlon installation is straightforward. It's easy. Really easy.
 All you need is a Raspberry Pi, a fresh SD card and a Twitter account. 
